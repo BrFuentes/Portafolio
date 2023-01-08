@@ -1,0 +1,13 @@
+.footer-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto';
+    font-style:italic;
+    font-size: 10px;
+    min-height: 5vh;
+}

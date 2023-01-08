@@ -1,0 +1,18 @@
+.about-me{
+    display: flex;
+    width: 100%;
+    margin-top: 5px;
+    background-image: url("../../../public/descarga.jfif");
+    object-fit: cover;
+    box-shadow: 0 0 5px 10px rbg(0,0,0.5);
+}
+.about-me img{
+    width: 50%;
+}
+.about-me p{
+    width: 50%;
+    color: white;
+    font-size: 30px;
+    font-family: 'roboto';
+    margin-left: 30px;
+}

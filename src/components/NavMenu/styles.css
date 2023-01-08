@@ -1,0 +1,32 @@
+.nav-menu{
+    display: flex;
+    box-sizing: border-box;
+    width: 100vw;
+    background-color: black;
+    padding: 20px;
+}
+.menu-container{
+    width: 50%;
+}
+a:-webkit-any-link{
+    text-decoration:none;
+    color:white;
+    font-size: 20px;
+    font-family: 'roboto';
+    letter-spacing: 1px;
+}
+
+.menu-item{
+    display: inline-flex;
+    text-decoration: none;
+    margin: 0 20px;
+}
+.contacts-menu{
+    width: 45%;
+    display: flex;
+    justify-content: flex-end;
+}
+.contacts-menu a{
+    margin-left: 10px;
+    font-size: 25px;
+}
