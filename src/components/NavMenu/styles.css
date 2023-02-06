@@ -1,12 +1,12 @@
 .nav-menu{
     display: flex;
     box-sizing: border-box;
-    width: 100vw;
+    width: 100%;
     background-color: black;
     padding: 20px;
 }
 .menu-container{
-    width: 50%;
+    width: 80%;
 }
 a:-webkit-any-link{
     text-decoration:none;
@@ -22,7 +22,6 @@ a:-webkit-any-link{
     margin: 0 20px;
 }
 .contacts-menu{
-    width: 45%;
     display: flex;
     justify-content: flex-end;
 }

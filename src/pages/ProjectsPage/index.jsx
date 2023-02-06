@@ -20,16 +20,16 @@ function ProjectsPage(){
                 </div>
                 
             </div>
-            <div className="project-item">
+            <div className="project-item project-item__wanders">
                 <div className="project-img">
-                    <a href="https://marvel-city-team-alpha-brfuentes.vercel.app/" target="_blank" rel="noreferrer">
-                        <img  className="project-img__marvel" src="./orquideas.jfif" alt="Proyecto de una ecomerce para la venta de orquideas"></img>
+                    <a href="https://wanderersnutrition.com/" target="_blank" rel="noreferrer">
+                        <img  className="project-img__marvel" src="./wanderesnutrition.png" alt="Ecommerce para la venta de sumplementos"></img>
                     </a>
                 </div>
                 <div className="project-text">
-                    <h2>Orquidea.com</h2>
+                    <h2>Wanderers Nutrition</h2>
                     <p>
-                        Es una página web que se encuentra en desarrollo, donde podra encontrar la gran variedad de orquídeas que ofrece Colombia
+                        Es una ecommerce sobre distintos suplementos, donde se realizaron diferentes ajustes sugeridos por el cliente, como vincular el cobro de impuestos, un diseño responsivo, entre otros. 
                     </p>
                 </div>
                 
