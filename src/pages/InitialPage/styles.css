@@ -25,6 +25,23 @@
 }
 
 .about-me-general p{
+    margin: 20px;
+    display: block;
     padding: 10px;
     font-family: 'roboto';
+    font-size: 20px;
+}
+.btn-cv{
+    margin: 20px auto;
+    justify-self: center;
+
+    width: 50%;
+    font-size: 16px;
+    background-color: black;
+    font-family: 'roboto';
+    padding: 1.5%;
+}
+.btn-cv a{
+    display: flex;
+    justify-content: center;
 }
