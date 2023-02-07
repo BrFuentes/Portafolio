@@ -23,7 +23,7 @@ function ProjectsPage(){
             <div className="project-item project-item__wanders">
                 <div className="project-img">
                     <a href="https://wanderersnutrition.com/" target="_blank" rel="noreferrer">
-                        <img  className="project-img__marvel" src="./wanderesnutrition.png" alt="Ecommerce para la venta de sumplementos"></img>
+                        <img  className="project-img__marvel" src="./wanderesnutrition.PNG" alt="Ecommerce para la venta de sumplementos"></img>
                     </a>
                 </div>
                 <div className="project-text">
