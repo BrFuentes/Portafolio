@@ -4,11 +4,24 @@
     align-items: center;
     text-align: center;
     width: 100%;
-    background-color: black;
-    color: white;
-    font-family: 'Roboto';
+    background-color: var(--color-primario);
+    color: var(--color-titulo-header);
+    font-family: var(--fuente-titulo);
     font-style:italic;
-    font-size: 10px;
     min-height: 5vh;
     margin-top: 50px;
+    padding: 10px;
+}
+h1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.contacts-footer{
+    width: 50%;
+    justify-content: flex-end;
+    font-size: 30px;
+}
+.contacts-footer a{
+    color: var(--color-titulo-header);
+    padding-left: 10px;
 }

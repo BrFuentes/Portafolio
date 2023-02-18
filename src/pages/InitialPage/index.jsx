@@ -7,16 +7,19 @@ function InitialPage(){
         <div>
             <div className="about-me">
                 <p>
-                Ingeniero Químico y Desarrollador Front-end
+                Ingeniero Forestal
                 </p>
-                <img src='./me.png' alt="Foto de Brayan Fuentes Guiza"></img>
+                <img src='./fer.jpeg' alt="Foto de Fernando Guiza Pardo"></img>
             </div>
             <div className="about-me-general">
                 <p>
-                Soy un profesional con habilidades técnicas en la aplicación de principios químicos y físicos para el diseño, desarrollo y optimización de procesos, asi como en lenguajes de programación para el desarrollo de páginas web. Destaco por ser un profesional versátil, disciplinado y capaz de trabajar y colaborar en diferentes entornos, desde la investigación y el desarrollo hasta la implementación y producción.
+                Profesional forestal, con conocimientos avanzados y experiencia en sistemas de información
+                geográfica, herramientas office (Excel, Word), levantamiento de inventarios y ejecución de
+                aprovechamientos forestales, elaboración de EIA y ejecución de PMA, manejo de fauna silvestre y
+                especies en veda, conocimientos de la legislación ambiental vigente
                 </p>
                 <div className="btn-cv">
-                <a href="./CV Brayan Fuentes.pdf" download>Descargar Hoja de Vida</a>
+                <a href="./CV Fernando Guiza.pdf" download>Descargar Hoja de Vida</a>
                 </div>
                 
             </div>

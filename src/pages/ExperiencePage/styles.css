@@ -1,0 +1,51 @@
+*{
+    overflow-x: hidden;
+}
+
+.experince-item{
+    margin: 30px 0;
+    background-color:var(--color-suave);
+    border-radius: 10px;
+}
+h2{
+    font-family: var(--fuente-titulo);
+    font-size: 27px;
+    font-weight: 1000;
+    text-align: center;
+    letter-spacing: 0.1px;
+    color: black;
+    margin-top:20px;
+}
+.slider-father{
+    max-width: 100%;
+    display: block;
+}
+.slider{
+    display: flex;
+    min-width: 200%;
+}
+
+.slider img{
+    min-width: 100vw;
+    max-height: 60vh;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.experience-text{
+    text-align: justify;
+    padding: 20px;
+    color: black;
+    font-family: var(--fuente-texto);
+    font-size: 16px;
+    line-height:1.5 ;
+    letter-spacing: 0.5px;
+}
+.date-text{
+    text-align: center;
+    color: gray;
+    font-family: var(--fuente-texto);
+    font-size: 16px;
+    line-height:1.5 ;
+    letter-spacing: 0.5px;
+    margin-bottom:20px ;
+}
